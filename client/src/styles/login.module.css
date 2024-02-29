@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('shit.jpg');
+    background-image: url('shit.png');
     background-size: cover;
     background-position: center;
   }
@@ -34,12 +34,15 @@
 .loginLogo {
     font-size: 50px;
     font-weight: 800;
-    color: #800000;
+    font-family: 'Anta';
+    src: url('Anta-Regular.ttf') format('truetype');
+    color: #1aff01;
     margin-bottom: 10px;
 }
 
 .loginDesc {
     font-size: 24px;
+    color: #1aff01;
 }
 
 .loginBox {

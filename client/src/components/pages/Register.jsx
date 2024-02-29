@@ -40,9 +40,9 @@ export default function Register() {
             <div className={styles.login}>
                 <div className={styles.loginWrapper}>
                     <div className={styles.loginLeft}>
-                        <h3 className={styles.loginLogo}>CSUN Networking</h3>
+                        <h3 className={styles.loginLogo}>NIET SOCIAL</h3>
                         <span className={styles.loginDesc}>
-                            Come join your fellow matadors on CSUN Networking!
+                            Come join your fellow NIET'ians and connect with them.
                         </span>
                     </div>
                     <div className={styles.loginRight}>
